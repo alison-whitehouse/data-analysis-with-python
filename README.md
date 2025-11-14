@@ -1,5 +1,3 @@
-# Level 4 Data Analysis with Python
-
 # Data Analysis with Python - Complete Module
 
 A comprehensive 11-week course covering data analysis fundamentals using Python and pandas. No previous knowledge of Python is assumed.
