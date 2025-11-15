@@ -34,8 +34,7 @@ Each week's folder contains:
 4. **Build your portfolio** using the GitHub skills from Week 10
 
 ### For Instructors
-- Each folder contains comprehensive teaching materials
-- Instructor guides available for complex topics
+- Each folder contains Python notebooks for workshops, along with a version including exercise answers
 - All datasets are included and ready to use
 
 ## Prerequisites
